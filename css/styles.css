@@ -1,4 +1,16 @@
-img .picture {
+.picture {
   width: 200px;
   height: 200px;
 }
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-size: xx-large;
+  font-style: italic;
+  font-stretch: expanded;
+}
+
